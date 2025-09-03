@@ -1,16 +1,30 @@
 # moneyswap
 
 A new Flutter project.
+# 💱 Money Swap App
 
-## Getting Started
+تطبيق تحويل عملات مبني باستخدام **Flutter** بتصميم عصري وفخم ✨.  
+يتيح لك اختيار العملة **From / To**، إدخال المبلغ، والحصول على نتيجة التحويل مباشرة.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 المميزات
+- 🎨 تصميم واجهة عصرية (Gradient + Cards + Shadow).
+- 🔑 صفحة تسجيل دخول مع حفظ بيانات المستخدم (SharedPreferences).
+- 💵 تحويل عملات مع عرض النتيجة والسعر الحالي.
+- 📱 متوافق مع Android و iOS.
+- ⚡ أداء سريع وسهل الاستخدام.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ التشغيل
+لو أول مرة تشتغل Flutter:
+
+```bash
+# تحميل الباكدجات
+flutter pub get
+
+# تشغيل على المحاكي أو الموبايل
+flutter run
